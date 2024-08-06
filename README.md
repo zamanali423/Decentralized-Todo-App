@@ -36,6 +36,7 @@ The architecture of the project is divided into several key components:
 <b>Technologies:</b> Node.js, Express, MongoDB
 </br>
 <b>Endpoints:</b>
+</br>
 `POST /auth/users/register/newUser:` Registers a new user.
 </br>
 `POST /auth/users/login:` Logs in a user with email and password.
@@ -153,6 +154,9 @@ The changes will be saved and reflected immediately.
 We welcome contributions to this project. To contribute:
 
 1.Fork the repository.
+</br>
 2.Create a new branch for your changes.
+</br>
 3.Make your changes and test them thoroughly.
+</br>
 4.Submit a pull request with a clear description of your changes.
